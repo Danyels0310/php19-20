@@ -8,7 +8,7 @@
 </HEAD>
 
 <BODY>
-<H1>ALTA PRODUCTOS - NOMBRE DEL ALUMNO</H1>
+<H1>ALTA PRODUCTOS - Daniel Fernández</H1>
 <?PHP
 INCLUDE "conexion.php";
 
